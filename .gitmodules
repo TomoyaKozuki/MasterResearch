@@ -1,0 +1,4 @@
+[submodule "extern/HairMSNN"]
+	path = extern/HairMSNN
+	url = https://github.com/facebookresearch/HairMSNN.git
+	branch = main
